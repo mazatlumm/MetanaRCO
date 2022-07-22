@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "metana",
+    "slug": "metana",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
